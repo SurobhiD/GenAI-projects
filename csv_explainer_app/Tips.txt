@@ -1,0 +1,21 @@
+Successful prompts :
+1. Show me the plot for battery_power
+2. Show me the table for mean battery_power by dual_sim
+3. Show me the scatter plot of talk_time by battery power
+4. show me the table for mean mobile_wt by price_range
+5. Show me the table of mean talk_time by wifi and dual_sim
+6. Show me a donut plot for n_cores
+7. Show me a plot for mobile_wt by  price_range
+8.
+
+
+Unsucessful prompts :
+1. Show me the plot of talk_time by battery_power
+2. Show me the scatter plot of mobile_wt by ram for the top 20 rows only
+3. Show me a bar plot for mobile_wt by  price_range. the y-axis range should be between 120-150
+
+Tips:
+Sometimes it gets stuck and shows the same results.
+One needs to delete the base file and then generate the answer.
+All table work properly
+Giving the exact plot type helps.
